@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 252, 252);
+    color: #5e3d0b;
+}
+.container{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0,0,0,0.1);
+    text-align: center;
+}
+img{
+    width: auto;
+}
+p{
+    padding: 0px 10px;
+    text-align: justify;
+}
+.ul, .ol{
+    text-align: left;
+    max-width: 20px;
+}
